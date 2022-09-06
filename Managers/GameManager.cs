@@ -17,6 +17,10 @@ public static class GameManager
         Console.WriteLine("Pense com cuidado na hora de dar suas respostas!");
         Console.WriteLine("Ou não. Já que você sempre tem a opção de tentar de novo" + "\n");
         Console.WriteLine("Aperte Enter para começar sua GRANDIOSA jornada");
+        Console.WriteLine("Esse jogo foi criado por:" + "\n");
+        Console.WriteLine("Bernardo Rodrigues Ritzel");
+        Console.WriteLine("Gabriel Borges Araujo");
+        Console.WriteLine("Marcelo Greff");
         
         if(Console.ReadLine() == "")
             StartGame();
