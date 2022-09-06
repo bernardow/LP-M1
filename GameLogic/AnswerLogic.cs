@@ -45,6 +45,7 @@ public class AnswerLogic
     {
         Console.Clear();
         Console.WriteLine("Você Errou" + "\n" + "Aperte Enter para ir para a próxima pergunta!");
+        MissesScore++;
         if(Console.ReadLine() == "") 
             Console.Clear();
     }

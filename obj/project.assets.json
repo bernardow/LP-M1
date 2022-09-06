@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/LP-M1.csproj",
+      "projectUniqueName": "/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/Git-M1/LP-M1/LP-M1.csproj",
       "projectName": "LP-M1",
-      "projectPath": "/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/LP-M1.csproj",
+      "projectPath": "/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/Git-M1/LP-M1/LP-M1.csproj",
       "packagesPath": "/Users/joaomateusritzel/.nuget/packages/",
-      "outputPath": "/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/",
+      "outputPath": "/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/Git-M1/LP-M1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joaomateusritzel/.nuget/NuGet/NuGet.Config"

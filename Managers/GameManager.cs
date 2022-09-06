@@ -11,6 +11,7 @@ public static class GameManager
     {
         Console.Clear();
         ScoreNum = 0;
+        MissesScore = 0;
         Console.WriteLine("Olá! Seja bem-vindo ao, GRANDIOSO, ULTIMATE simple QUESTION GAME" + "\n");
         Console.WriteLine("Esse INCRÍVEL software(que não é nada soft >:) ) irá fazer perguntas à  você!");
         Console.WriteLine("Pense com cuidado na hora de dar suas respostas!");
@@ -38,7 +39,8 @@ public static class GameManager
 
     private static void ScoreScreen()
     {
-        Console.WriteLine("Você acertou: " + ScoreNum + "\n");
+        Console.WriteLine("Você acertou: " + ScoreNum);
+        Console.WriteLine("E errou: " + MissesScore + "\n");
         Console.WriteLine("Se quiser jogar novamente aperte(adivinha, o ENTER)!");
         Console.WriteLine("Caso não me aguente mais e seu único desejo é se ver livre de mim, escreva tchau");
         if (Console.ReadLine() == "" )
@@ -50,6 +52,7 @@ public static class GameManager
     private  static void Replay()
     {
         ScoreNum = 0;
+        MissesScore = 0;
         Console.Clear();
         if(WrongQuestions.Count > 0)
         {
@@ -62,5 +65,8 @@ public static class GameManager
     {
         Console.WriteLine("Parabéns! Você, incrivelmente, acertou todas as perguntas que selecionamos e o jogo, enfim, acabou");
         Console.WriteLine("Muito obrigado por ter jogado!");
+        Console.WriteLine("Caso queira jogar novamente aperte Enter");
+        if(Console.ReadLine() == "")
+            Intro();
     }
 }
