@@ -1,0 +1,11 @@
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/bin/Debug/net6.0/LP-M1
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/bin/Debug/net6.0/LP-M1.dll
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/bin/Debug/net6.0/LP-M1.pdb
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.csproj.AssemblyReference.cache
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.AssemblyInfoInputs.cache
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.AssemblyInfo.cs
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.csproj.CoreCompileInputs.cache
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.dll
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/refint/LP-M1.dll
+/Users/joaomateusritzel/Desktop/Arroz/Trabs/Lógica de Programação/LP-M1/LP-M1/obj/Debug/net6.0/LP-M1.pdb
