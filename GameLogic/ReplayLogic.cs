@@ -7,12 +7,10 @@ public static class ReplayLogic
     //Valores
     public static readonly List<Question> WrongQuestions = new List<Question>();
     public static readonly List<Question> RightQuestions = new List<Question>();
-    
 
     //Referências
     private static readonly AnswerLogic AnswerLogic = new AnswerLogic();
-    private static readonly QuestionLogic QuestionLogic = new QuestionLogic();
-    
+
     //É responsável pelo loop de questōes nos replays
     public static void ReplayQuestIterator()
     {
@@ -20,7 +18,7 @@ public static class ReplayLogic
         if (WrongQuestions.Count > 0)
         {
             //Aqui é feito a montagem das questōes
-            for (int i = 0; i <= WrongQuestions.Count; i++)
+            for (int i = 0; i < WrongQuestions.Count; i++)
             {
                 //Escreve a string da pergunta
                 Console.WriteLine(WrongQuestions[i].QuestionName() + "\n");

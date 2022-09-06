@@ -31,7 +31,7 @@ public class QuestionLogic
     }
 
     //Esse glorioso método é responsável por adicionar todos os itens do projeto do tipo Question à uma ùnica lista. #melhormétodo
-    public List<Question> GetQuestionsList()
+    private List<Question> GetQuestionsList()
     {
         //Inicialmente ele cria uma lista vazia
         List<Question> questions = new List<Question>();
@@ -51,7 +51,6 @@ public class QuestionLogic
                     questions.Add(tempEffect);
             }
         }
-
         //Por fim essa lista é retornada
         return questions;
     }
