@@ -65,8 +65,12 @@ public static class GameManager
     {
         Console.WriteLine("Parabéns! Você, incrivelmente, acertou todas as perguntas que selecionamos e o jogo, enfim, acabou");
         Console.WriteLine("Muito obrigado por ter jogado!");
-        Console.WriteLine("Caso queira jogar novamente aperte Enter");
+        Console.WriteLine("Caso queira jogar novamente aperte Enter, senão apenas me de um tchau");
         if(Console.ReadLine() == "")
             Intro();
+        else if (Console.ReadLine() == "tchau")
+        {
+            
+        }
     }
 }
